@@ -12,8 +12,8 @@
     - El responsive la página web debe adaptarse a cualquier tamaño de pantallasobre todo al trabajar con Mobile First.
 
   Backend maneja todos los datos que le sirve el Frontend desde datos generales hasta los datos mas sensibles, es donde los usuario no puedan ver tan facilmente, también es todo la infraestructura por parte del servidor.
-    - Podemos empezar eligiendo algún lenguaje del lado del servidor como puede ser php, python, java, nodejs, etc.
-    - Debemos aprender sus fundamentos, la sintaxis que manejan el lenguaje que estes usando.
-    - La persistencia de datos, desde las relacionales y las no relacionales como mysql, mongodb, firebase, postgresSQL. 
-    - EL deploy el trasladar tu página web distribuirla por el internet, lo cual usando el sericio de hosting que se encargan de esa tarea, donde podemos subir mediante los servicios microsoft Azure. Google Cloud, Amazon Webservices.
-    - Arquitectura backend cómo conectamos todos los servicios como la conexión entre base de datos, para lograr construir aplicaciones que pueden ser escalables.
+  - Podemos empezar eligiendo algún lenguaje del lado del servidor como puede ser php, python, java, nodejs, etc.
+  - Debemos aprender sus fundamentos, la sintaxis que manejan el lenguaje que estes usando.
+  - La persistencia de datos, desde las relacionales y las no relacionales como mysql, mongodb, firebase, postgresSQL. 
+  - EL deploy el trasladar tu página web distribuirla por el internet, lo cual usando el sericio de hosting que se encargan de esa tarea, donde podemos subir mediante los servicios microsoft Azure. Google Cloud, Amazon Webservices.
+  - Arquitectura backend cómo conectamos todos los servicios como la conexión entre base de datos, para lograr construir aplicaciones que pueden ser escalables.
