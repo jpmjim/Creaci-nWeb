@@ -22,7 +22,7 @@
   (Hyper Text Markup Languaje) es un lenguaje de marcado de texto, es el código que se utiliza para estructurar el contenido de tu web, y darle sentido y propósito, Hyper Text significa que el texto tiene interactividad, conexión con otros documentos, Markup significa que le pone etiquetas a los elementos, por eso también se le conoce como lenguaje de etiquetas.
 
   - Anatomía de una página web:
-    La anatomía de una página web se refiere al acomodo de información o secciones de la página que dividimos por medio de etiquetas específicas:
+    La anatomía de una página web se refiere al acomodo de información o secciones de la página que dividimos por medio de [etiquetas específicas](https://developer.mozilla.org/es/docs/Web/HTML):
     - CONTAINER→ contenedor principal de la información
     - HEADER → Cabecera de la página
     - MAIN CONTENT → Estructura o contenido principal de la página
@@ -30,4 +30,18 @@
     - FOOTER → Pie de página
 
       ![](https://root-cuckoo-af5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa22f86c3-622e-4aa8-b60c-a145a47a759a%2FUntitled.png?table=block&id=0b925eec-ee3a-416a-9b3e-c47bb25acad2&spaceId=13288771-0d8b-469c-8940-e662d0415c68&width=2000&userId=&cache=v2)
-  
+
+## Mi primera página web con HTML
+  Tu primer archivo html siempre tiene que llamarse index.html, index va a ser la página principal que el servidor va a buscar al momento que tenga que abrir un proyecto. Si esta página no existe, nosotros tendríamos que decirle al servidor cuál es la página que tiene que tomar como página de inicio.
+
+  - <! DOCTYPE html> → Informa al navegador qué versión de HTML se usó para escribir el documento, en este caso html. DOCTYPE es una declaración, no una etiqueta.
+  - <html lang=”es”> → Es la etiqueta “padre” donde vivirá nuestro proyecto. El atributo lang establece el idioma del sitio web. Debemos usarlo para que el navegador pueda traducir nuestra página.
+  - <head> → La cabecera (en inglés head) es la parte del documento HTML, que contiene metadatos sobre ese documento, como el autor, la descripción y los enlaces a los archivos.
+  - <body> → El elemento body de HTML representa el contenido de un documento HTML. Solo puede haber un elemento <body> en un documento
+
+  [Referencia de Elementos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Element)
+
+  Anatomía de una etiqueta de HTML:
+  ![](https://root-cuckoo-af5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F801829fb-1816-4ac6-bc01-2727bacde74a%2FUntitled.png?table=block&id=bb0e5eb8-7ccd-43eb-99ab-fbba3cb761e0&spaceId=13288771-0d8b-469c-8940-e662d0415c68&width=2000&userId=&cache=v2)
+
+
