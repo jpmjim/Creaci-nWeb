@@ -47,3 +47,6 @@
 
 ## Maquetando el hero
   Donde se da a conocer una parte de la información o descripción de la persona, con una imagen de fondo para darle mas estilo a una fotografía, a una pequeña descripción a lo que haces.
+
+## Maquetando la sección de redes sociales
+  El espacio donde contendra la información de las diversas redes sociales que se pueda contar para que las personas conozcan más de nosotros.
