@@ -16,4 +16,18 @@
   - Debemos aprender sus fundamentos, la sintaxis que manejan el lenguaje que estes usando.
   - La persistencia de datos, desde las relacionales y las no relacionales como mysql, mongodb, firebase, postgresSQL. 
   - EL deploy el trasladar tu página web distribuirla por el internet, lo cual usando el sericio de hosting que se encargan de esa tarea, donde podemos subir mediante los servicios microsoft Azure. Google Cloud, Amazon Webservices.
-  - Arquitectura backend cómo conectamos todos los servicios como la conexión entre base de datos, para lograr construir aplicaciones que pueden ser escalables.
+  - Arquitectu utilizadora backend cómo conectamos todos los servicios como la conexión entre base de datos, para lograr construir aplicaciones que pueden ser escalables.
+
+## ¿Qué debo saber de HTML?
+  (Hyper Text Markup Languaje) es un lenguaje de marcado de texto, es el código que se utiliza para estructurar el contenido de tu web, y darle sentido y propósito, Hyper Text significa que el texto tiene interactividad, conexión con otros documentos, Markup significa que le pone etiquetas a los elementos, por eso también se le conoce como lenguaje de etiquetas.
+
+  - Anatomía de una página web:
+    La anatomía de una página web se refiere al acomodo de información o secciones de la página que dividimos por medio de etiquetas específicas:
+    - CONTAINER→ contenedor principal de la información
+    - HEADER → Cabecera de la página
+    - MAIN CONTENT → Estructura o contenido principal de la página
+    - SIDEBAR → Contenido secundario de una página (anuncios, etc.)
+    - FOOTER → Pie de página
+
+      ![](https://root-cuckoo-af5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa22f86c3-622e-4aa8-b60c-a145a47a759a%2FUntitled.png?table=block&id=0b925eec-ee3a-416a-9b3e-c47bb25acad2&spaceId=13288771-0d8b-469c-8940-e662d0415c68&width=2000&userId=&cache=v2)
+  
