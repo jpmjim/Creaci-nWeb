@@ -50,3 +50,20 @@
 
 ## Maquetando la sección de redes sociales
   El espacio donde contendra la información de las diversas redes sociales que se pueda contar para que las personas conozcan más de nosotros.
+
+## ¿Qué debo saber de CSS?
+  CSS es utilizado para diseñar y dar estilo a las páginas web, por ejemplo, alterando la fuente, color, tamaño y espaciado del contenido, dividirlo en múltiples columnas o agregar animaciones y otras características decorativas. Este módulo proporciona un suave comienzo hacia el dominio de CSS con los conceptos básicos acerca de su funcionamiento, la sintaxis y la manera en que puedes comenzar a utilizarlo para agregar estilos al HTML.
+
+  ![Imgur](https://i.imgur.com/mppve6a.png)
+
+  Tipos de selectores que pueden ser fáciles o tan complejos como tú quieras.
+  - Etiqueta
+  - ID
+  - Clase
+  - Atributo
+
+  ![Imgur](https://i.imgur.com/FlCOZpg.png)
+
+  Y estos selectores se pueden combinar que pueden ser tan fáciles o tan complejos como se quiera.
+
+  ![Imgur](https://i.imgur.com/06Yb78i.png)
