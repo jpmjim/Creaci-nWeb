@@ -45,3 +45,5 @@
   ![](https://root-cuckoo-af5.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F801829fb-1816-4ac6-bc01-2727bacde74a%2FUntitled.png?table=block&id=bb0e5eb8-7ccd-43eb-99ab-fbba3cb761e0&spaceId=13288771-0d8b-469c-8940-e662d0415c68&width=2000&userId=&cache=v2)
 
 
+## Maquetando el hero
+  Donde se da a conocer una parte de la información o descripción de la persona, con una imagen de fondo para darle mas estilo a una fotografía, a una pequeña descripción a lo que haces.
