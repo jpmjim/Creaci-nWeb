@@ -44,15 +44,34 @@ header {
 
 #hero .informacion-contenedor {
   position: absolute;
-  top: 0;
+  top: 50%;
+  transform: translateY(-50%);
   left: 0;
+  width: 60%;
+  color: azure;
+  padding: 0 50px;
 }
 
 #hero .informacion-contenedor #foto {
-  width: 200px;
+  width: 250px;
+  margin-bottom: 20px;
+  
 }
 
 #hero .informacion-contenedor #foto img {
   border-radius: 100%;
+  padding: 10px;
+  border: 5px dashed white;
 }
 
+#hero .informacion-contenedor .informacion {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#hero .informacion-contenedor .informacion span {
+  display: inline-block;
+  color: tomato;
+  margin-bottom: 20px;
+}
