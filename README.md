@@ -67,3 +67,10 @@
   Y estos selectores se pueden combinar que pueden ser tan fáciles o tan complejos como se quiera.
 
   ![Imgur](https://i.imgur.com/06Yb78i.png)
+
+## Cómo hacer deploy a internet
+  Deploy es la forma con la que se le dice poner una página web en internet. Básicamente es liberar tu sitio web al mundo para que cualquier persona pueda accederlo o támbien "llevarlo a producción".
+
+  Para que la página web pueda ser mostrada en tu la computadora, alguien tiene que entregártela primero. Ese alguienb es llamdo **servidor** porque es quien te sirve la página web que estás buscando.
+
+  
