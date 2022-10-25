@@ -73,4 +73,16 @@
 
   Para que la página web pueda ser mostrada en tu la computadora, alguien tiene que entregártela primero. Ese alguienb es llamdo **servidor** porque es quien te sirve la página web que estás buscando.
 
-  
+## Deploy en [Netlify](https://www.netlify.com/)
+  Te registras a la página de Netlify para poder hacer el deploy o támbien se puede hacer directamente desde **GitHub**.
+  - Escogemos Deploy Manualmente
+
+  ![Imgur](https://i.imgur.com/8UYPlIv.png)
+
+  - Arrastramos toda la carpeta donde se encuentra nuestro proyecto.
+
+  ![Imgur](https://i.imgur.com/pa4tqFv.png)
+
+  - Listo tenemos nuestra página web desplegada, le hacemos click en la dirección.
+
+  ![Imgur](https://i.imgur.com/6Ye3BAX.png)
