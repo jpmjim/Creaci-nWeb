@@ -75,3 +75,47 @@ header {
   color: tomato;
   margin-bottom: 20px;
 }
+
+/* Estilos del main */
+main {
+  padding: 100px;
+}
+
+main .social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  list-style: none;
+}
+
+main .social-icons li {
+  margin-left: 8px;
+}
+
+main .social-icons .social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+  color: white;
+}
+
+main .social-icons #linkedin {
+  background: #0077b0;
+}
+
+main .social-icons #github {
+  background: #23272d;
+}
+
+main .social-icons #twitter {
+  background: #1da1f2;
+}
+
+main .social-icons #youtube {
+  background: #f70000;
+}
