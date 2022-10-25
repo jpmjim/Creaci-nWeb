@@ -86,3 +86,18 @@
   - Listo tenemos nuestra página web desplegada, le hacemos click en la dirección.
 
   ![Imgur](https://i.imgur.com/6Ye3BAX.png)
+
+## Compra el dominio de tu página web
+  Un dominio es nuestra dirección en internet una dirección IP, es el que le permite al navegador poder encontrar la página web.
+
+  Donde podemos adquirir nuestro dominio atraves de esta página [NameCheap](https://www.namecheap.com/) donde te pide estar registrado y añadir un método de pago.
+
+  No es el unico lugar donde se puede comprar, puedes usar [Nominalia](https://www.nominalia.com/)
+
+  Buscamos el nombre del dominio que deseamos tener donde nos dara una lista de toda las opciones que podamos tener con difrentes extensiones que existan, lo mas recomendable siempre intentar adquirir el que termina en **.com**.
+
+  ![Imgur](https://i.imgur.com/jFacmna.png)
+
+  Despues de comprar el dominio nos movemos a la página donde fue desplegado nuestro sitio web en este caso usamos Netlify, donde añadiremos el dominio.
+
+  ![Imgur](https://i.imgur.com/Oj0TLeO.png)
