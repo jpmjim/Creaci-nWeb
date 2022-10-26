@@ -201,3 +201,8 @@
   Simple Page
 
   ![Imgur](https://i.imgur.com/CmoE8Sk.png)
+
+## Mi primera página web con Elementor
+  Dentro de Elementor encontramos los diferentes elementos que nos ayudaran a construir nuestra página web de manera muy sencilla.
+
+  ![Imgur](https://i.imgur.com/fP3LhfC.png)
