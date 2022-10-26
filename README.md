@@ -101,3 +101,23 @@
   Despues de comprar el dominio nos movemos a la página donde fue desplegado nuestro sitio web en este caso usamos Netlify, donde añadiremos el dominio.
 
   ![Imgur](https://i.imgur.com/Oj0TLeO.png)
+
+## Cómo comprar un hosting para mi página web
+  Muchas veces  necesitamos tener mayoy control sobre lo que hacemos y necesitamos hacer más cosas "como a empezar a manejar backend" entonces debemos empezar a pensar en un hosting. Tenemos de varios tipos:
+
+  - Hosting compartido es un servidor que se encarga de alojar varias paginas web.
+  - VPS Virtual Private Server son maquinas virtuales que corren dentro de una computadora para ser usada como hosting.
+  - Servidor dedicado una computadora completa para uso exclusivamente para tu sitio web.
+
+  Ventajas del hosting compartido:
+  - Muchas veces el hosting compartido se suele vender por paquetes que te incluyen almacenamiento, dominio, SSL, bases de datos  y cuentas de correo personalizados.
+
+  Recomendaciones de hosting:
+    - [HostGator](https://www.hostgator.com/)
+    - BanaHosting
+    - Kinsta Hosting
+    - WP Engine
+    - Hostinger
+    - DigitalOcean
+    - Siteground
+    - HostPapa
