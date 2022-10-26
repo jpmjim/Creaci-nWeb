@@ -188,3 +188,16 @@
   - Nos movemos al navegador a la siguiente dirección http://localhost:8080 donde podras instalar wordpress paso a paso simplemente existiendo dentro de un contenedor.
 
   ![Imgur](https://i.imgur.com/bJJxAlZ.png)
+
+## Instalación y configuración de Elementor
+  Instalaremos el plugin llamado **Elementor** nos servira para construir páginas web añadiendo elementos sin la necesidad de usar código.
+
+  ![Imgur](https://i.imgur.com/gzcl282.png)
+
+  Dentro de Elementor
+
+  ![Imgur](https://i.imgur.com/uM4Azv0.png)
+
+  Simple Page
+
+  ![Imgur](https://i.imgur.com/CmoE8Sk.png)
