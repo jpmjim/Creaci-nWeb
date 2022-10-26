@@ -146,3 +146,45 @@
 
   ¿Qué es WordPress?
   Es un sistema manejador de contenidos que nos permite crear sitios web de una forma muy rápida y sin necesidad de código. Basado en PHP.
+
+  Wordpress con Docker, tener instalado previamente docker en su computadora podemos usar contenedores donde tendremos corriendo una base de datos y wordpress para poder practicar, teniendo estas configuraciones:
+
+  - Nuestro archivo de **docker-compose.yml**:
+  ```yml
+  version: '3.1'
+
+  services:
+
+    wordpress:
+      image: wordpress
+      restart: always
+      ports:
+        - 8080:80
+      environment:
+        WORDPRESS_DB_HOST: db
+        WORDPRESS_DB_USER: exampleuser
+        WORDPRESS_DB_PASSWORD: examplepass
+        WORDPRESS_DB_NAME: exampledb
+      volumes:
+        - ./wordpress:/var/www/html
+    
+    db:
+      image: mysql:5.7
+      restart: always
+      environment:
+        MYSQL_DATABASE: exampledb
+        MYSQL_USER: exampleuser
+        MYSQL_PASSWORD: examplepass
+        MYSQL_RANDOM_ROOT_PASSWORD: '1'
+      volumes:
+        - ./db:/var/lib/mysql
+  ```
+  - Ejecutamos estos comandos para levantar nuestros contenedores:
+  ```bash
+  docker-compose up -d wordpress
+  docker-compose up -d db
+  ```
+
+  - Nos movemos al navegador a la siguiente dirección http://localhost:8080 donde podras instalar wordpress paso a paso simplemente existiendo dentro de un contenedor.
+
+  ![Imgur](https://i.imgur.com/bJJxAlZ.png)
