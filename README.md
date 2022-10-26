@@ -121,3 +121,28 @@
     - DigitalOcean
     - Siteground
     - HostPapa
+
+## Qué es no-code
+  Construir un sitio web **No-Code** nos ayuda a terner un ***MVP*** en poco tiempo y sin gastar mucho dinero, nos permite resolver rápido el problema que necesitamos resolver.
+
+  Ventajas:
+  - Velocidad
+  - Agilidad
+  - Bajo costo
+  - Fácil de mantener
+  - Seguridad
+
+  Desventajas:
+  - Poca escalabilidad
+  - Personalización limitada
+  - Poco control de las herramientas
+  - Dependes de otros desarrolladores
+
+  Las herramientas No Code permiten crear software sin usar lenguajes de programación, solo a través de interfaz visual.
+
+  La misma palabra No Code (ningún código) es recurrente entre herramientas muy conocidas: Airtable, Zapier, Stripe, Notion, Landbot, Shopify, Wix, Webflow, Substack, Typeform, WordPress y otras.
+
+  [Por qué aprender No Code: ventajas de las herramientas](https://www.torresburriel.com/weblog/2021/11/25/porque-aprender-no-code-ventajas-de-las-herramientas/)
+
+  ¿Qué es WordPress?
+  Es un sistema manejador de contenidos que nos permite crear sitios web de una forma muy rápida y sin necesidad de código. Basado en PHP.
